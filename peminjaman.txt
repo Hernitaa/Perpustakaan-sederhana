@@ -1,0 +1,5 @@
+Nama Peminjam: 
+NBI Peminjam: 
+Judul Buku: [dlmvl
+Tanggal Peminjaman: 09/09/2023
+Tanggal Pengembalian: 16/09/2023

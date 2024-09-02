@@ -1,0 +1,6 @@
+Informasi Pinjaman:
+Nama Peminjam: 
+NBI Peminjam: 
+Judul Buku: avnuhdb
+Tanggal Peminjaman: 09/09/2023
+Tanggal Pengembalian: Sat Sep 16 00:00:00 WIB 2023

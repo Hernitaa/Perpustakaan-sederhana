@@ -1,0 +1,6 @@
+Nama Peminjam: 
+NBI Peminjam: 
+Buku yang Dipinjam 1: 
+Buku yang Dipinjam 2: 
+Tanggal Peminjaman: 03/07/2023
+Tanggal Pengembalian: 10/07/2023
